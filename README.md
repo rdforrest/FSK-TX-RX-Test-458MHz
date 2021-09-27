@@ -22,3 +22,6 @@ AES encryption: disabled
 Inaccessible:
 Over-current protection: enabled
 Automatically clear packet on CRC mismatch: enabled
+
+
+DEVELOPMENT STOPPED - LoRa  looks like a a better system for underwater range
